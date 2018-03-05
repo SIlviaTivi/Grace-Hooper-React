@@ -1,0 +1,54 @@
+*{
+    text-decoration: none;
+  }
+  
+  body{
+      font-family: "Palatino", sans-serif;
+  
+      padding: 10px;
+  
+  }
+  header h1{
+      margin-bottom: 3px;
+      margin-top: 0px;
+  }
+  header hr {
+      margin-top: 0px;
+      margin-bottom: 0px;
+  }
+  
+  .biography {
+      width: 72%;
+      display: inline-block;
+      line-height: 150%;
+  }
+  
+  .sumary {
+      display: inline-block;
+      width:25%;
+      vertical-align: top;
+      font-size: 14px;
+      margin-top: 15px;
+  }
+  
+  .sumary-table{
+      border: 1px solid #a2a9b1;
+      background-color: #f8f9fa;
+      padding: 1px;
+      font-size: 12px;
+  }
+  
+  .sumary-table thead th {
+      background-color: #B0C4DE;
+      padding-top: 3px;
+      padding-bottom: 3px;
+      font-size: 16px;
+  }
+  .sumary-table tbody tr:first-child{
+      text-align: center;
+  }
+  
+  .sumary-table tbody th{
+      text-align: left;
+  
+  }

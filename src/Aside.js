@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import image from '../src/hooper.jpg';
+import './Main.css';
 
 class Aside extends Component {
     render() {
